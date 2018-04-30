@@ -15,3 +15,7 @@
 支持方法：
 
     setActiveSlide(slide) 将 slide 设置为当前
+    
+使用方式：
+
+    var slides = new slide(轮播容器,配置参数)
