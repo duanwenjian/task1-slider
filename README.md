@@ -1,1 +1,1 @@
-# task1-slider
+# 轮播组件
