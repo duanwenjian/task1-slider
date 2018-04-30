@@ -19,7 +19,5 @@
 使用方式：
 
     var slides = new slide(slideContent,setting);
-        slideContent : 轮播容器
-        setting : 轮播配置
-
-    
+    slideContent : 轮播容器
+    setting : 轮播配置
