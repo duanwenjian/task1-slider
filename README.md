@@ -18,4 +18,4 @@
     
 使用方式：
 
-    var slides = new slide(轮播容器,配置参数)
+    var slides = new slide(轮播容器,配置参数);
